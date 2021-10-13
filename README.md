@@ -1,3 +1,4 @@
-# Portiflio
-Esse é meu Portifólio principal
-![Portfólio](https://user-images.githubusercontent.com/87030375/136875203-982c3f40-ab41-463f-960e-ba53e6b18df0.png)
+# Portiflio-2
+Esse é um Portifólio que criei para aprimorar as minhas habilidades.
+
+![portifolio](https://user-images.githubusercontent.com/87030375/137054734-579a0d00-23de-44b3-881d-14ea15e7526f.png)
